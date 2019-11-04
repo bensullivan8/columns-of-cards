@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family:
+}
+
+ul {
+  display: flex;
+
+}
+
+img {
+  display: inline-block;
+  width: 100px;
+  margin: 0 auto 1.5rem;
+}
+
+li {
+  list-style-type: none;
+  width: 25%;
+  margin: 0 auto 1.5rem;
+}
+
+strong {
+  display: block;
+}
+
+.light {
+  background-color: #e2e2e2;
+}
+
+.medium-light {
+  background-color: #ccc;
+}
+
+.medium-dark {
+  background-color: #aaa;
+}
+
+.dark {
+  background-color: #999;
+}
