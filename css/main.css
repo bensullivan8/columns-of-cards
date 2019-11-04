@@ -95,3 +95,11 @@ a {
 .btn-small {
   font-size: .875rem;
 }
+
+.dark p {
+  padding-bottom: 0;
+}
+
+.medium-light p {
+  padding-bottom: 0;
+}
