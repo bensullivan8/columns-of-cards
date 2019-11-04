@@ -19,7 +19,8 @@ h1 {
 
 ul {
   display: flex;
-
+  flex-direction: row;
+  flex-grow: 100%;
 }
 
 img {
